@@ -25,10 +25,6 @@ A digital garden of notes from my Engineering and Computer Science studies. The 
 - [ArtRat](https://github.com/MonkeSam/ArtRat) — Object-Oriented Programming exam project
 - [Spotted](https://github.com/MonkeSam/Spotted) — Mobile Systems Programming course project
 
-## Useful links
-
-- [Study notes](https://monkesam.github.io/Notes/)
-- [GitHub projects](https://github.com/MonkeSam)
 
 ## Achieved skills
 
